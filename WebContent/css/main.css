@@ -1,0 +1,15 @@
+	.ash{
+		width:200px;
+		height:200px;
+		background-image: url("../image/ash.jpg");
+		margin-left: 6px;
+		
+	}
+	.fork{
+		width:200px;
+		height:200px;
+		background-image: url("../image/fork.png");
+		margin-left: 6px;	
+	}
+
+
