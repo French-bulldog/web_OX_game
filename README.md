@@ -2,6 +2,9 @@
 
 web_OX_game是一款可以跟電腦AI PK的井字遊戲。
 
+![1685880401353](https://github.com/French-bulldog/web_OX_game/assets/75679879/8adb4beb-8629-48f8-9c0b-0cc6d229304e)
+
+
 ## 使用技術
 
 - HTML
